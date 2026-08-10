@@ -1,0 +1,7 @@
+{
+  "name": "dep-043",
+  "version": "1.0.0",
+  "dependencies": {
+    "Misiix9/Vanta": "git+https://github.com/Misiix9/Vanta.git"
+  }
+}
